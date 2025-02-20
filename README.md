@@ -23,4 +23,6 @@ A simple command-line application to track personal expenses.
    ```bash
    python expense_tracker.py
 
-![image](https://github.com/user-attachments/assets/fefefd7c-f6ac-4c3d-9013-1fb9bd883c85)
+
+![image](https://github.com/user-attachments/assets/a6625355-38c7-448a-a686-3e2401c1f1b2)
+
