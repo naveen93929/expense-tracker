@@ -1,4 +1,3 @@
-# expense-tracker
 # Personal Expense Tracker
 
 A simple command-line application to track personal expenses.
@@ -24,4 +23,4 @@ A simple command-line application to track personal expenses.
    ```bash
    python expense_tracker.py
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/fefefd7c-f6ac-4c3d-9013-1fb9bd883c85)
